@@ -6,7 +6,7 @@ This repository documents my personal learning journey studying machine learning
 ### ✅ Completed
 
 ### 🚧 In Progress
-- [ ] MLS Course 1: Supervised Machine Learning - *12/2025*
+- [ ] [MLS Course 1: Supervised Machine Learning](https://github.com/conorfabian/Machine-Learning/tree/main/machine%20learning%20specialization/supervised%20machine%20learning) - *12/2025*
 
 ### ⌛ Upcoming
 - [ ] MLS Course 2: Advanced Learning Algorithms
