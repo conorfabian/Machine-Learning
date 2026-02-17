@@ -5,11 +5,12 @@ This repository documents my personal learning journey studying machine learning
 ## 🧭 Roadmap
 ### ✅ Completed
 - [x] **ISLP: Chapter 1** - *02/2026*
+- [x] **Hands-On Machine Learning: Chapter 1** - *02/2026*
 
 ### 🚧 In Progress
 - [ ] **MLS Course 1: Supervised Machine Learning** - *02/2026*
 - [ ] **ISLP: Chapter 2** - *02/2026*
-- [ ] **Hands-On Machine Learning: Chapter 1** - *02/2026*
+- [ ] **Hands-On Machine Learning: Chapter 2** - *02/2026*
 
 ### ⌛ Upcoming
 - [ ] **MLS Course 2: Advanced Learning Algorithms**
