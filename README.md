@@ -6,15 +6,16 @@ This repository documents my personal learning journey studying machine learning
 ### ✅ Completed
 - [x] **ISLP: Chapter 1** - *02/2026*
 - [x] **Hands-On Machine Learning: Chapter 1** - *02/2026*
+- [x] **ISLP: Chapter 2** - *03/2026*
 
 ### 🚧 In Progress
-- [ ] **MLS Course 1: Supervised Machine Learning** - *02/2026*
-- [ ] **ISLP: Chapter 2** - *02/2026*
-- [ ] **Hands-On Machine Learning: Chapter 2** - *02/2026*
+- [ ] **MLS Course 1: Supervised Machine Learning** - *03/2026*
+- [ ] **ISLP: Chapter 3** - *03/2026*
+- [ ] **Hands-On Machine Learning: Chapter 2** - *03/2026*
 
 ### ⌛ Upcoming
 - [ ] **MLS Course 2: Advanced Learning Algorithms**
-- [ ] **ISLP: Chapter 3**
+- [ ] **ISLP: Chapter 4**
 - [ ] **Hands-On Machine Learning: Chapter 3**
 
 ## 📌 Resources
