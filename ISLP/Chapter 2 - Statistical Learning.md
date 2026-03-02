@@ -1,4 +1,4 @@
-# ISLP — Chapter 2: Statistical Learning (Structured Notes)
+# Chapter 2: Statistical Learning
 
 ---
 
