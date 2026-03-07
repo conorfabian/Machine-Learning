@@ -7,7 +7,7 @@ This repository documents my personal learning journey studying machine learning
 - [x] **Hands-On Machine Learning: Chapter 1-3** - *03/2026*
 
 ### 🚧 In Progress
-- [ ] **Hands-On Machine Learning: Chapter 4** - *03/2026*
+- [ ] **Hands-On Machine Learning: Chapter 4-5** - *03/2026*
 
 ### ⌛ Upcoming
 - [ ] **Hands-On Machine Learning: Chapter 5**
